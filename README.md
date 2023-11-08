@@ -4,7 +4,7 @@
 
 Habilidades: 💼 Logística 💻 Desenvolvimento Back-End 📊 Análise de Dados 📝 Escrita Técnica
 
-
+[![Whybson Assis](https://github-readme-stats.vercel.app/api?username=jackobassis&show_icons=true&theme=radical)](https://github.com/JackobAssis/desafio-backend-modulo-03-sistema-dindin-b2b-t11)
 
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
