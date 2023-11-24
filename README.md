@@ -3,7 +3,7 @@
 ## estou sempre em busca de agregar conhecimento e desenvolver novas habilidades
 ##  Eu gosto de no meu tempo livre [Praticar ciclismo, road e off road];
 
-Habilidades: 💼 Logística 💻 Desenvolvimento Back-End 📊 Análise de Dados 📝 Escrita Técnica
+### Habilidades: 💼 Logística 💻 Desenvolvimento Back-End 📊 Análise de Dados 📝 Escrita Técnica
 
 [![Whybson Assis](https://github-readme-stats.vercel.app/api?username=jackobassis&show_icons=true&theme=dark)
 
