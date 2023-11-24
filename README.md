@@ -1,6 +1,6 @@
 # Olá, sou Whybson Assis <h1>
 ## Sou um entusiasta da tecnologia apaixonado por tecnologia e em formação como desenvolvedor Back-End <h3>
-##  Eu gosto de no meu tempo livre [Praticar ciclismo, road e off road];
+##  Eu gosto de no meu tempo livre Praticar ciclismo, road e off road.
 ## estou sempre em busca de agregar conhecimento e desenvolver novas habilidades
 
 
