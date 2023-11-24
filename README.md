@@ -1,6 +1,7 @@
 # Olá, sou Whybson Assis <h1>
 ### Sou um entusiasta da tecnologia apaixonado por tecnologia e em formação como desenvolvedor Back-End <h3>
 ## estou sempre em busca de agregar conhecimento e desenvolver novas habilidades
+#  Eu gosto de no meu tempo livre [Praticar ciclismo, road e off road];
 
 Habilidades: 💼 Logística 💻 Desenvolvimento Back-End 📊 Análise de Dados 📝 Escrita Técnica
 
