@@ -39,11 +39,6 @@ No tempo livre, pratico **ciclismo road e off-road**, o que reflete bem meu perf
 
 Projetos publicados, funcionais e acessíveis ao público:
 
-### 🎮 Virada da Sorte
-Jogo web simples e interativo, focado em lógica, aleatoriedade e experiência do usuário.  
-🔗 https://viradadasorte.vercel.app/
-
----
 
 ### 🍔 Sistema de Pontuação & Cardápio de Hamburgueria
 Sistema completo para visualização de cardápio e controle de pontuação de clientes.  
